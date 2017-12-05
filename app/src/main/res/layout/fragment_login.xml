@@ -28,6 +28,16 @@
                 android:inputType="textPassword" />
         </android.support.design.widget.TextInputLayout>
 
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="LOGIN"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="REGISTER"/>
+
 
     </LinearLayout>
 </layout>
