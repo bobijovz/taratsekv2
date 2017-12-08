@@ -42,7 +42,7 @@ public class SplashActivity extends AppCompatActivity{
                 AnimUtils.expand(mBinding.frameLoginContainer);
             }
         };
-        handler.postDelayed(r, 5000);
+        handler.postDelayed(r, 2000);
     }
 
 }
